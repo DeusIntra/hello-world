@@ -1,5 +1,4 @@
 # hello-world
-bombom hoho
 
 message
 message
